@@ -21,7 +21,6 @@ Focused on real-time mechanics, clean architecture, and game physics.
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green?style=flat-square)
 ![uv](https://img.shields.io/badge/uv-env%20manager-orange?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
 ---
 
